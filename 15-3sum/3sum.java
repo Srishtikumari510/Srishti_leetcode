@@ -4,12 +4,10 @@ class Solution {
 
         List<List<Integer>> result = new ArrayList<>();
 
-        // Sort array
         Arrays.sort(nums);
 
         for(int i = 0; i < nums.length - 2; i++) {
 
-            // Skip duplicate first elements
             if(i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
@@ -34,7 +32,6 @@ class Solution {
                         )
                     );
 
-                    // Skip duplicates
                     while(left < right &&
                           nums[left] == nums[left + 1]) {
                         left++;
