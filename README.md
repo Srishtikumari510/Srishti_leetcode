@@ -5,3 +5,15 @@ Repository Objectives
 Consistency: Solving at least 2-5 problems daily.
 Concept Mastery: Documenting efficient approaches and optimal space/time complexities.
 Interview Readiness: Building a solid foundation for coding rounds and technical interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1773-count-items-matching-a-rule) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1773-count-items-matching-a-rule) |
+<!---LeetCode Topics End-->
