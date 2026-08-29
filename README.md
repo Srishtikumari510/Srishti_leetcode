@@ -11,9 +11,26 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
 | [1773-count-items-matching-a-rule](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## String
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1773-count-items-matching-a-rule) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
