@@ -12,6 +12,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0881-boats-to-save-people) |
 | [1773-count-items-matching-a-rule](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## String
@@ -27,6 +28,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
