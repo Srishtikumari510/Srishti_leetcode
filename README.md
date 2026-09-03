@@ -73,4 +73,16 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0435-non-overlapping-intervals) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
