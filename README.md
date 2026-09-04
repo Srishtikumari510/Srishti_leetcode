@@ -11,6 +11,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0860-lemonade-change) |
@@ -41,6 +42,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0881-boats-to-save-people) |
@@ -56,6 +58,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0217-contains-duplicate) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
