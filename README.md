@@ -20,6 +20,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 | [0860-lemonade-change](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0948-bag-of-tokens) |
+| [1512-number-of-good-pairs](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -66,6 +67,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 | [0217-contains-duplicate](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -75,6 +77,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
@@ -104,6 +107,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
