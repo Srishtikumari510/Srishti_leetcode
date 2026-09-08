@@ -12,6 +12,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
