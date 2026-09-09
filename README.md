@@ -12,6 +12,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -33,6 +34,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0948-bag-of-tokens) |
