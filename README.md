@@ -12,6 +12,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
@@ -51,6 +53,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0435-non-overlapping-intervals) |
