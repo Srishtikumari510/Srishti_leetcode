@@ -81,6 +81,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
@@ -115,10 +116,15 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
