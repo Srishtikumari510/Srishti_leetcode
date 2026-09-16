@@ -126,5 +126,10 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
