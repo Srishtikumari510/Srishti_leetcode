@@ -118,6 +118,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 | ------- |
 | [0231-power-of-two](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -132,4 +133,5 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
