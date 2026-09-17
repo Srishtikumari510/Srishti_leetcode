@@ -16,6 +16,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
@@ -100,6 +101,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -116,6 +118,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
