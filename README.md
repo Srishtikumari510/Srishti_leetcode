@@ -32,6 +32,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Two Pointers
@@ -97,10 +98,12 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -137,4 +140,8 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
