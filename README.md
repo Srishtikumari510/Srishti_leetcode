@@ -22,6 +22,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0948-bag-of-tokens) |
@@ -60,6 +61,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0948-bag-of-tokens) |
 ## Quicksort
@@ -77,6 +79,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 | [0217-contains-duplicate](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
@@ -85,6 +88,7 @@ Interview Readiness: Building a solid foundation for coding rounds and technical
 | [0136-single-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srishtikumari510/Srishti_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
