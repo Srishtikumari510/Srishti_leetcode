@@ -6,7 +6,6 @@ class Solution {
         int n = nums.length;
         int[] save = new int[2];
 
-        // Find duplicate
         for (int i = 1; i < n; i++) {
             if (nums[i] == nums[i - 1]) {
                 save[0] = nums[i];
@@ -14,7 +13,6 @@ class Solution {
             }
         }
 
-        // Find missing using sum
         int expectedSum = n * (n + 1) / 2;
 
         int actualSum = 0;
